@@ -1,0 +1,247 @@
+{
+    "title": "Lecture 11 Ambiguous to unambiguous Grammar in Compiler Design",
+    "thumbnail": "https://i.ytimg.com/vi/nyWxFxAj2Ms/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC0CzzJqsSYVsaqwjVEQU4DrD9mtA",
+    "duration": "18:50",
+    "formats": [
+        {
+            "itag": 136,
+            "mimeType": "video/mp4; codecs=\"avc1.4d401f\"",
+            "quality": "720p",
+            "container": "mp4",
+            "isAudioOnly": false,
+            "codecs": "avc1.4d401f",
+            "bitrate": 2314433,
+            "size": "172.31 MB"
+        },
+        {
+            "itag": 247,
+            "mimeType": "video/webm; codecs=\"vp9\"",
+            "quality": "720p",
+            "container": "webm",
+            "isAudioOnly": false,
+            "codecs": "vp9",
+            "bitrate": 1611805,
+            "size": "97.76 MB"
+        },
+        {
+            "itag": 398,
+            "mimeType": "video/mp4; codecs=\"av01.0.05M.08\"",
+            "quality": "720p",
+            "container": "mp4",
+            "isAudioOnly": false,
+            "codecs": "av01.0.05M.08",
+            "bitrate": 1516793,
+            "size": "122.86 MB"
+        },
+        {
+            "itag": 244,
+            "mimeType": "video/webm; codecs=\"vp9\"",
+            "quality": "480p",
+            "container": "webm",
+            "isAudioOnly": false,
+            "codecs": "vp9",
+            "bitrate": 881597,
+            "size": "56.80 MB"
+        },
+        {
+            "itag": 397,
+            "mimeType": "video/mp4; codecs=\"av01.0.04M.08\"",
+            "quality": "480p",
+            "container": "mp4",
+            "isAudioOnly": false,
+            "codecs": "av01.0.04M.08",
+            "bitrate": 740168,
+            "size": "51.10 MB"
+        },
+        {
+            "itag": 135,
+            "mimeType": "video/mp4; codecs=\"avc1.4d401f\"",
+            "quality": "480p",
+            "container": "mp4",
+            "isAudioOnly": false,
+            "codecs": "avc1.4d401f",
+            "bitrate": 681064,
+            "size": "34.96 MB"
+        },
+        {
+            "itag": 243,
+            "mimeType": "video/webm; codecs=\"vp9\"",
+            "quality": "360p",
+            "container": "webm",
+            "isAudioOnly": false,
+            "codecs": "vp9",
+            "bitrate": 572756,
+            "size": "41.70 MB"
+        },
+        {
+            "itag": 134,
+            "mimeType": "video/mp4; codecs=\"avc1.4d401e\"",
+            "quality": "360p",
+            "container": "mp4",
+            "isAudioOnly": false,
+            "codecs": "avc1.4d401e",
+            "bitrate": 447262,
+            "size": "21.40 MB"
+        },
+        {
+            "itag": 396,
+            "mimeType": "video/mp4; codecs=\"av01.0.01M.08\"",
+            "quality": "360p",
+            "container": "mp4",
+            "isAudioOnly": false,
+            "codecs": "av01.0.01M.08",
+            "bitrate": 440806,
+            "size": "28.07 MB"
+        },
+        {
+            "itag": 242,
+            "mimeType": "video/webm; codecs=\"vp9\"",
+            "quality": "240p",
+            "container": "webm",
+            "isAudioOnly": false,
+            "codecs": "vp9",
+            "bitrate": 231734,
+            "size": "18.12 MB"
+        },
+        {
+            "itag": 133,
+            "mimeType": "video/mp4; codecs=\"avc1.4d4015\"",
+            "quality": "240p",
+            "container": "mp4",
+            "isAudioOnly": false,
+            "codecs": "avc1.4d4015",
+            "bitrate": 219722,
+            "size": "10.08 MB"
+        },
+        {
+            "itag": 395,
+            "mimeType": "video/mp4; codecs=\"av01.0.00M.08\"",
+            "quality": "240p",
+            "container": "mp4",
+            "isAudioOnly": false,
+            "codecs": "av01.0.00M.08",
+            "bitrate": 204721,
+            "size": "12.29 MB"
+        },
+        {
+            "itag": 278,
+            "mimeType": "video/webm; codecs=\"vp9\"",
+            "quality": "144p",
+            "container": "webm",
+            "isAudioOnly": false,
+            "codecs": "vp9",
+            "bitrate": 105467,
+            "size": "8.74 MB"
+        },
+        {
+            "itag": 394,
+            "mimeType": "video/mp4; codecs=\"av01.0.00M.08\"",
+            "quality": "144p",
+            "container": "mp4",
+            "isAudioOnly": false,
+            "codecs": "av01.0.00M.08",
+            "bitrate": 91939,
+            "size": "6.70 MB"
+        },
+        {
+            "itag": 160,
+            "mimeType": "video/mp4; codecs=\"avc1.4d400c\"",
+            "quality": "144p",
+            "container": "mp4",
+            "isAudioOnly": false,
+            "codecs": "avc1.4d400c",
+            "bitrate": 87352,
+            "size": "4.46 MB"
+        },
+        {
+            "itag": 140,
+            "mimeType": "audio/mp4; codecs=\"mp4a.40.2\"",
+            "quality": null,
+            "container": "mp4",
+            "isAudioOnly": true,
+            "codecs": "mp4a.40.2",
+            "bitrate": 131319,
+            "size": "17.43 MB"
+        },
+        {
+            "itag": 140,
+            "mimeType": "audio/mp4; codecs=\"mp4a.40.2\"",
+            "quality": null,
+            "container": "mp4",
+            "isAudioOnly": true,
+            "codecs": "mp4a.40.2",
+            "bitrate": 131316,
+            "size": "17.43 MB"
+        },
+        {
+            "itag": 251,
+            "mimeType": "audio/webm; codecs=\"opus\"",
+            "quality": null,
+            "container": "webm",
+            "isAudioOnly": true,
+            "codecs": "opus",
+            "bitrate": 107972,
+            "size": "13.62 MB"
+        },
+        {
+            "itag": 251,
+            "mimeType": "audio/webm; codecs=\"opus\"",
+            "quality": null,
+            "container": "webm",
+            "isAudioOnly": true,
+            "codecs": "opus",
+            "bitrate": 107963,
+            "size": "13.62 MB"
+        },
+        {
+            "itag": 250,
+            "mimeType": "audio/webm; codecs=\"opus\"",
+            "quality": null,
+            "container": "webm",
+            "isAudioOnly": true,
+            "codecs": "opus",
+            "bitrate": 60077,
+            "size": "7.52 MB"
+        },
+        {
+            "itag": 250,
+            "mimeType": "audio/webm; codecs=\"opus\"",
+            "quality": null,
+            "container": "webm",
+            "isAudioOnly": true,
+            "codecs": "opus",
+            "bitrate": 59892,
+            "size": "7.51 MB"
+        },
+        {
+            "itag": 249,
+            "mimeType": "audio/webm; codecs=\"opus\"",
+            "quality": null,
+            "container": "webm",
+            "isAudioOnly": true,
+            "codecs": "opus",
+            "bitrate": 52230,
+            "size": "6.82 MB"
+        },
+        {
+            "itag": 249,
+            "mimeType": "audio/webm; codecs=\"opus\"",
+            "quality": null,
+            "container": "webm",
+            "isAudioOnly": true,
+            "codecs": "opus",
+            "bitrate": 52198,
+            "size": "6.82 MB"
+        },
+        {
+            "itag": 18,
+            "mimeType": "video/mp4; codecs=\"avc1.42001E, mp4a.40.2\"",
+            "quality": "360p",
+            "container": "mp4",
+            "isAudioOnly": false,
+            "codecs": "avc1.42001E, mp4a.40.2",
+            "bitrate": 287881,
+            "size": "unknown"
+        }
+    ]
+}
